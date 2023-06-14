@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "name": "pokemon",
+  "name": "tiendavirtual",
   "version": "1.0.0",
   "main": "api.js",
   "scripts": {
